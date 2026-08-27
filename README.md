@@ -177,7 +177,7 @@ Short description of your future project. Add the technologies and business prob
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Mathew4real/Mathew4real/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Mathew4real/Mathew4real-/output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
     width="100%"
   />
