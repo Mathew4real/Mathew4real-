@@ -125,20 +125,6 @@ Short description of your future project. Add the technologies and business prob
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Mathew4real&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&icon_color=8B949E"
-    width="49%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathew4real&layout=compact&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E"
-    width="49%"
-  />
-</p>
-
----
 
 ## Contribution Streak
 
@@ -164,27 +150,7 @@ Short description of your future project. Add the technologies and business prob
 
 ---
 
-## Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Mathew4real&bg_color=0D1117&color=8B949E&line=30363D&point=8B949E&area=true&hide_border=true"
-    width="100%"
-  />
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Mathew4real&theme=flat&no-bg=true&no-frame=true&margin-w=8"
-    width="100%"
-  />
-</p>
-
----
 
 ## Connect
 
