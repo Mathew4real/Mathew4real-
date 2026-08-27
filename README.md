@@ -129,11 +129,11 @@ Short description of your future project. Add the technologies and business prob
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Mathew4real&show_icons=true&theme=default&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&icon_color=8B949E"
+    src="https://github-readme-stats.vercel.app/api?username=Mathew4real&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&icon_color=8B949E"
     width="49%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathew4real&layout=compact&theme=default&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathew4real&layout=compact&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E"
     width="49%"
   />
 </p>
@@ -144,7 +144,7 @@ Short description of your future project. Add the technologies and business prob
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Mathew4real&theme=default&hide_border=true&background=0D1117&ring=8B949E&fire=8B949E&currStreakLabel=E6EDF3&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E"
+    src="https://streak-stats.demolab.com?user=Mathew4real&hide_border=true&background=0D1117&ring=8B949E&fire=8B949E&currStreakLabel=E6EDF3&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E"
     width="100%"
   />
 </p>
