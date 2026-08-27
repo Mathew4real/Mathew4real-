@@ -19,7 +19,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/Mathew4real?style=flat-square&label=Followers&color=30363D&labelColor=0D1117" />
   <img src="https://komarev.com/ghpvc/?username=Mathew4real&style=flat-square&label=Profile+Views&color=30363D&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/last-commit/Mathew4real/Mathew4real?style=flat-square&label=Status&color=2EA043&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/last-commit/Mathew4real/Mathew4real-?style=flat-square&label=Status&color=2EA043&labelColor=0D1117" />
 </p>
 
 <br>
@@ -135,6 +135,18 @@ Short description of your future project. Add the technologies and business prob
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathew4real&layout=compact&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E"
     width="49%"
+  />
+</p>
+
+---
+
+## Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Mathew4real&hide_border=true&background=0D1117&stroke=30363D&ring=F97316&fire=FF4500&currStreakLabel=E6EDF3&sideLabels=8B949E&currStreakNum=F97316&sideNums=E6EDF3&dates=8B949E"
+    alt="Mathew4real GitHub Streak"
+    width="100%"
   />
 </p>
 
