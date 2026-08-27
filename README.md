@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Mateus4real?style=flat-square&label=Followers&color=30363D&labelColor=0D1117" />
-  <img src="https://komarev.com/ghpvc/?username=Mateus4real&style=flat-square&label=Profile+Views&color=30363D&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/last-commit/Mateus4real/Mateus4real?style=flat-square&label=Status&color=2EA043&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/followers/Mathew4real?style=flat-square&label=Followers&color=30363D&labelColor=0D1117" />
+  <img src="https://komarev.com/ghpvc/?username=Mathew4real&style=flat-square&label=Profile+Views&color=30363D&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/last-commit/Mathew4real/Mathew4real?style=flat-square&label=Status&color=2EA043&labelColor=0D1117" />
 </p>
 
 <br>
