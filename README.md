@@ -140,12 +140,12 @@ Short description of your future project. Add the technologies and business prob
 
 ---
 
-## Contribution Streak
+## Contribution Snake
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Mathew4real&hide_border=true&background=0D1117&ring=8B949E&fire=8B949E&currStreakLabel=E6EDF3&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E"
-    alt="Mathew4real GitHub Streak"
+    src="https://raw.githubusercontent.com/Mathew4real/Mathew4real-/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
     width="100%"
   />
 </p>
@@ -168,18 +168,6 @@ Short description of your future project. Add the technologies and business prob
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=Mathew4real&theme=flat&no-bg=true&no-frame=true&margin-w=8"
-    width="100%"
-  />
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Mathew4real&hide_border=true&background=0D1117&stroke=30363D&ring=F97316&fire=FF4500&currStreakLabel=E6EDF3&sideLabels=8B949E&currStreakNum=F97316&sideNums=E6EDF3&dates=8B949E"
-    alt="Mathew4real GitHub Streak"
     width="100%"
   />
 </p>
