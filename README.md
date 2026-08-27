@@ -129,11 +129,11 @@ Short description of your future project. Add the technologies and business prob
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Mateus4real&show_icons=true&theme=default&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&icon_color=8B949E"
+    src="https://github-readme-stats.vercel.app/api?username=Mathew4real&show_icons=true&theme=default&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&icon_color=8B949E"
     width="49%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus4real&layout=compact&theme=default&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathew4real&layout=compact&theme=default&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E"
     width="49%"
   />
 </p>
@@ -155,7 +155,7 @@ Short description of your future project. Add the technologies and business prob
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Mateus4real&bg_color=0D1117&color=8B949E&line=30363D&point=8B949E&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mathew4real&bg_color=0D1117&color=8B949E&line=30363D&point=8B949E&area=true&hide_border=true"
     width="100%"
   />
 </p>
@@ -166,7 +166,7 @@ Short description of your future project. Add the technologies and business prob
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Mateus4real&theme=flat&no-bg=true&no-frame=true&margin-w=8"
+    src="https://github-profile-trophy.vercel.app/?username=Mathew4real&theme=flat&no-bg=true&no-frame=true&margin-w=8"
     width="100%"
   />
 </p>
@@ -177,7 +177,7 @@ Short description of your future project. Add the technologies and business prob
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Mateus4real/Mateus4real/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Mathew4real/Mathew4real/output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
     width="100%"
   />
